@@ -1,2 +1,3 @@
 libreoffice
-java-11-openjdk
+default-jre
+fonts-liberation
